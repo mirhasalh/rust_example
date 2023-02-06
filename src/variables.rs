@@ -1,4 +1,5 @@
 pub fn run() {
+    // Variable are immutable by default
     let name = "Doe";
     let mut age = 29;
 
